@@ -52,8 +52,7 @@ function Player(x,y) {
             }
             //verticalmovement
             if (upKey) {
-                //chek if on ground
-
+                
                 this.yspeed -= 20;
 
             }

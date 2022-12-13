@@ -86,6 +86,7 @@ window.onload = function() {
 
 }
 
+//changes the player to it's new location then it draws the canvas
 function step() {
     //step player
     player.step();
