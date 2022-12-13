@@ -161,5 +161,5 @@ function checkIntersection(r1, r2) {
 }
 
 
-// source  https://www.youtube.com/playlist?list=PLSZdxnY7ocZNRtiBUwg8ls-KsDw0N0CGB
+// inspired by  https://www.youtube.com/playlist?list=PLSZdxnY7ocZNRtiBUwg8ls-KsDw0N0CGB
 //I learned alot from these videos, learned how to implement a canvas as well as how to draw on them, the biggest problem i had was colition, on earlier prototypes i had charcters moved from side to side but i could not figure out how to make them interact, for example stop the character when he hits a wall
