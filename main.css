@@ -1,0 +1,42 @@
+canvas {
+    border: 1px solid black;
+
+}
+body {
+  text-align: center;
+  background-color: lightblue;
+}
+.levels {
+    text-decoration-color: #73AD21;
+    position: relative;
+    top: -500px;
+    right: 800px;
+    width: 210px;
+    height: 50px;
+    border: 3px solid #73AD21;
+    margin: 10px;
+  }
+h1{
+  color: #ff4411; 
+  font-size: 48px; 
+  font-family: 'Signika', sans-serif; 
+}
+.menup {
+  font-size: 40px;
+}
+.menuh2{
+  font-size: 50px;
+}
+input {
+  height: 100px;
+  width: 150px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 60px;
+  color: #73AD21;
+  background-color:blue;
+}
+input:hover {
+  cursor:pointer;
+  background-color: yellow;
+
+}
